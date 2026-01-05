@@ -1,6 +1,6 @@
 ## Welcome
 
-I'm a qualifed accountant with 10+ years' experience in various accounting and data-related roles. I'm especially interested in how to ensure that the right data is communicated in the most clear and informative way, to ensure better decisions get made.
+I'm a qualifed UK accountant with 10+ years' experience in various accounting and data-related roles. I'm especially interested in how to ensure that the right data is communicated in the most clear and informative way, to ensure better decisions get made.
 
 See some of my work below:
 * Analysing publicly available financial information on UK universities and performing statistical analysis: [HESA KFIs analysis](https://github.com/kathryncodesthings/HESA-KFIs-project)
@@ -23,3 +23,10 @@ I also have some experience with:
 - Tableau
 - Alteryx
 - SQL
+- C++
+
+Other related skills include:
+- MS Office suite
+- HTML & basic CSS
+- SAP
+- Axiom

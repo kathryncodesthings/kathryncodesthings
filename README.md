@@ -2,12 +2,14 @@
 
 I'm a qualifed UK accountant with 10+ years' experience in various accounting and data-related roles. I'm especially interested in how to ensure that the right data is communicated in the most clear and informative way, to ensure better decisions get made.
 
+### Portfolio
 See some of my work below:
 * Analysing publicly available financial information on UK universities and performing statistical analysis: [HESA KFIs analysis](https://github.com/kathryncodesthings/HESA-KFIs-project)
 * Improving a revenue visualisation: [Revenue visualisation improvement](https://github.com/kathryncodesthings/improving-data-visualisation)
 * Using web scraping and other public data to estimate financial risks to UK universities: [Web scraping and risk estimates](https://github.com/kathryncodesthings/Web-scraping-fees-project)
 * Analysing data about a game show (Taskmaster) and using machine learning to try to forecast results: [Taskmaster machine learning predictions](https://github.com/kathryncodesthings/taskmaster-predictions-with-machine-learning)
 
+### Skills
 My particular interests and skills are:
 - data visualisation, particularly financial data
   - including dashboards 
@@ -25,8 +27,5 @@ I also have some experience with:
 - SQL
 - C++
 
-Other related skills include:
-- MS Office suite
-- HTML & basic CSS
-- SAP
-- Axiom
+### Relevant qualifications
+I have a PG Cert in Computer Science, and a Level 4 Apprenticeship in Data Analytics (Distinction), as well as being a member of the [Institute of Chartered Accountants of England and Wales](http://www.icaew.com).

@@ -1,5 +1,4 @@
 ## Welcome
-
 I'm a qualifed UK accountant with 10+ years' experience in various accounting and data-related roles. I'm especially interested in how to ensure that the right data is communicated in the most clear and informative way, to ensure better decisions get made.
 
 ### Portfolio
@@ -28,4 +27,4 @@ I also have some experience with:
 - C++
 
 ### Relevant qualifications
-I have a PG Cert in Computer Science, and a Level 4 Apprenticeship in Data Analytics (Distinction), as well as being a member of the [Institute of Chartered Accountants of England and Wales](http://www.icaew.com).
+I have a PG Cert in Computer Science, and a [Level 4 Apprenticeship in Data Analytics (Distinction)](https://skillsengland.education.gov.uk/apprenticeship-standards/st0118-v1-1). I am a member of the [Institute of Chartered Accountants of England and Wales](http://www.icaew.com).

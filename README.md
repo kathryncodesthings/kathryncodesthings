@@ -6,7 +6,7 @@ See some of my work below:
 * Analysing publicly available financial information on UK universities and performing statistical analysis: [HESA KFIs analysis](https://github.com/kathryncodesthings/HESA-KFIs-project)
 * Improving a revenue visualisation: [Revenue visualisation improvement](https://github.com/kathryncodesthings/improving-data-visualisation)
 * Using web scraping and other public data to estimate financial risks to UK universities: [Web scraping and risk estimates](https://github.com/kathryncodesthings/Web-scraping-fees-project)
-* Analysing data about a game show (Taskmaster) and using machine learning to try to forecast results: [Taskmaster machine learning predictions](https://github.com/kathryncodesthings/taskmaster-predictions-with-machine-learning)
+* Analysing data about a game show (Taskmaster) and using machine learning to predict results: [Taskmaster machine learning predictions](https://github.com/kathryncodesthings/taskmaster-predictions-with-machine-learning)
 
 ### Skills
 My particular interests and skills are:

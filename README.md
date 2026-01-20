@@ -11,7 +11,8 @@ See some of my work below:
 ### Skills
 My particular interests and skills are:
 - data visualisation, particularly financial data
-  - including dashboards 
+  - including dashboards
+- creating models for analysis, forecasting and costing
 - communicating insights to non-technical audiences
 - data cleaning and transformation
 
